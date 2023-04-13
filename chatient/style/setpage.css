@@ -1,0 +1,31 @@
+.brand{
+    margin-top: 1rem;
+}
+.submitbtncont{
+    margin-top: 1rem;
+}
+
+.formcon{
+    margin-top: 5rem;
+    width: 350px;
+}
+.joincontain{
+    margin-top: 2rem;
+}
+.btncontain{
+    margin-top: 5rem;
+    width: 300px;
+}
+
+.nav-container{
+    margin-left: 1rem;
+}
+footer{
+    margin-top: 6rem;
+}
+.bodycon{
+    margin-top: 15rem;
+}
+.active{
+    display: block;
+}
